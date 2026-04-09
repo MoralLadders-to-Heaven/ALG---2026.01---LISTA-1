@@ -30,3 +30,7 @@ este número é primo ou não.
 10. Fazer um programa no qual o usuário vai entrando sucessivamente com valores
 positivos. Quando o usuário entrar com um valor negativo o programa pára de
 pedir valores e calcula a média dos valores já fornecidos.
+
+## Explicação
+
+teste teste teste
