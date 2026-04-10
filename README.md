@@ -33,4 +33,4 @@ pedir valores e calcula a média dos valores já fornecidos.
 
 ## Explicação
 
-teste teste teste
+Apenas algumas atividades avaliativas que o professor Rafael da UNIEURO nós deu
