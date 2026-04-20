@@ -1,7 +1,4 @@
 # ALG---2026.01---LISTA-1
-Lista de Exercicio 1 do professor Rafael - Programação em C
-
-## Exercicios
 
 1. Fazer um programa para receber um número inteiro de segundos do usuário e
 imprimir a quantidade correspondente em horas, minutos e segundos.
@@ -30,7 +27,3 @@ este número é primo ou não.
 10. Fazer um programa no qual o usuário vai entrando sucessivamente com valores
 positivos. Quando o usuário entrar com um valor negativo o programa pára de
 pedir valores e calcula a média dos valores já fornecidos.
-
-## Explicação
-
-Apenas algumas atividades avaliativas que o professor Rafael da UNIEURO nós deu
